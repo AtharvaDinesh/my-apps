@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: crimson;
+}
+.line{
+    width: 70px;
+    background-color: cyan;
+    margin: 8px auto;
+    height: 6px;
+}
+#Apps,#Games,#Chatbot{
+    width: 100%;
+    height: 800px;
+}
